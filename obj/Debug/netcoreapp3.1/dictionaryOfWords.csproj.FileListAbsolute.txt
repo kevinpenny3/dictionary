@@ -1,0 +1,10 @@
+/Users/kmpenny/workspace/csharp/exercises/dictionaries/dictionaryOfWords/bin/Debug/netcoreapp3.1/dictionaryOfWords.deps.json
+/Users/kmpenny/workspace/csharp/exercises/dictionaries/dictionaryOfWords/bin/Debug/netcoreapp3.1/dictionaryOfWords.runtimeconfig.json
+/Users/kmpenny/workspace/csharp/exercises/dictionaries/dictionaryOfWords/bin/Debug/netcoreapp3.1/dictionaryOfWords.runtimeconfig.dev.json
+/Users/kmpenny/workspace/csharp/exercises/dictionaries/dictionaryOfWords/bin/Debug/netcoreapp3.1/dictionaryOfWords.dll
+/Users/kmpenny/workspace/csharp/exercises/dictionaries/dictionaryOfWords/bin/Debug/netcoreapp3.1/dictionaryOfWords.pdb
+/Users/kmpenny/workspace/csharp/exercises/dictionaries/dictionaryOfWords/obj/Debug/netcoreapp3.1/dictionaryOfWords.csprojAssemblyReference.cache
+/Users/kmpenny/workspace/csharp/exercises/dictionaries/dictionaryOfWords/obj/Debug/netcoreapp3.1/dictionaryOfWords.AssemblyInfoInputs.cache
+/Users/kmpenny/workspace/csharp/exercises/dictionaries/dictionaryOfWords/obj/Debug/netcoreapp3.1/dictionaryOfWords.AssemblyInfo.cs
+/Users/kmpenny/workspace/csharp/exercises/dictionaries/dictionaryOfWords/obj/Debug/netcoreapp3.1/dictionaryOfWords.dll
+/Users/kmpenny/workspace/csharp/exercises/dictionaries/dictionaryOfWords/obj/Debug/netcoreapp3.1/dictionaryOfWords.pdb
